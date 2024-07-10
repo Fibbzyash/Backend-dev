@@ -1,0 +1,17 @@
+Advantage of django 
+BETTER WEB APPLICATION WITH LESS CODE 
+ FAST 
+ SECURE
+ SCALABALE
+
+Commands
+pip install uv
+uv venv
+source .venv/bin/activate
+uv pip install Django
+django-admin
+
+//Commands
+django-admin startproject project_name  //to start 
+cd , ls 
+python manage.py runserver
